@@ -1,1 +1,1 @@
-# MyFirstRepo
+# Python Mushroom Classification Project
