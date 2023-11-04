@@ -1,5 +1,5 @@
 ##  Mushroom Classification Project
-This project was completed during my certificate course for Data Science at Brainstation Inc.
+This project was completed during my certificate course for Data Science at Brainstation Inc. The full project code is attached as a juypter notebook in the main section.
 
 ##  Project goal
 Analyze the mushroom dataset to determine which factors make a mushroom more likely to be
