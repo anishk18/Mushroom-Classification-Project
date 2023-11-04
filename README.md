@@ -11,7 +11,7 @@ This dataset includes 61,069 mushrooms based on 173 species (353 mushrooms per s
 Each mushroom is identified as definitely edible, or potentially poisonous. Of the 12 variables, 9
 are categorical and 3 are continuous.
 
-[Uploading mushroom.csv…]()
+
 
 ![image](https://github.com/anishk18/Python-Projects/assets/62049962/b6810f83-a1ac-4886-b2d8-dc8a0e738b75)
 ![image](https://github.com/anishk18/Python-Projects/assets/62049962/a54de0ab-1fa3-482e-a099-075a704b9498)
